@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Data</string>
+    <string name="insert">Insert</string>
+    <string name="get_tasks">Get Tasks</string>
+    <string-array name="spinnerItems">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
